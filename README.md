@@ -13,7 +13,11 @@ Scratchboard to brainstorm ML approaches and document findings.
 ### Stack Setup
 
 + Python (2.7.11)
-[Install Python](https://www.python.org/downloads/)
+[Install Python](https://www.python.org/downloads/) or
+``` bash
+# If Homebrew is installed
+brew install python
+```
 
 + PIP
 ``` bash
